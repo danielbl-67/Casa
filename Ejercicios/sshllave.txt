@@ -1,0 +1,10 @@
+
+COMANDO EN GIT BASH
+$ git config --global username "danielbl-67"
+$ git config --global user.email "burdallolopez67@gmail.com"
+$ git config --global core editor "C:\Users\Daniel\Documents\GITVSCODE"
+$ git config --global init.defaultbranch main
+$ git config --list --show origin
+
+CREA LA LLAVE SSH 
+$ ssh-keygen -t rsa -b 4096 -C "burdallolopez67@gmail.com"
